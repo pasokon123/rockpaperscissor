@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content:center;
+}
+
+#container {
+    background-color: rgb(181, 236, 168);
+    padding: 200px;
+    height: 200px;
+}
+
+#rock, #paper, #scissors {
+    padding: 30px;
+    border-radius: 20px;
+}
+
